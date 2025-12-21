@@ -11,4 +11,4 @@
     - ```kubectl get deployments```
     - ```kubectl get pods```
     - ```kubectl logs -f log-output-76d54848b7-bbn86```
-- ![Run](assets/1.1.png)
+![Run](assets/1.1.png)

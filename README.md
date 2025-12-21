@@ -4,4 +4,4 @@
 
 ### Chapter 2
 
-- [1.1](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.1)
+- Release: [1.1](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/v1.1) Code: [1.1](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/master/log_output)
