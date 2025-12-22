@@ -6,7 +6,10 @@
 
 - The application is built using Node.js. Source code is available [here](./).
 - The image pushed to Docker Hub is available at [pplx/log_output](https://hub.docker.com/r/pplx/log_output).
-- Commands used in this exercise are:
+- Docker commands used in this exercise are:
+    - ```docker build -t pplx/log_output:1.1 .```
+    - ```docker push pplx/log_output:1.1```
+- Kubernetes commands used in this exercise are:
     - ```kubectl create deployment log-output --image=pplx/log_output:1.1```
     - ```kubectl get deployments```
     - ```kubectl get pods```
