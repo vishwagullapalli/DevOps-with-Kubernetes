@@ -2,6 +2,15 @@
 
 ## Exercises
 
+### Exercise 1.4
+
+- To create deployment and check it, run the following commands:
+    - ```kubectl apply -f manifests/deployment.yaml```
+    - ```kubectl get pods```
+    - ```kubectl get deployments```
+    - ```kubectl logs -f todo-app-64f8f57b47-86zj4```
+![Run](assets/1.4.png)
+
 ### Exercise 1.2
 
 - The application is built using Node.js. Source code is available [here](./).

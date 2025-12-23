@@ -18,3 +18,8 @@
 
 - Release: [1.3](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.3) 
 - Tag: [1.3](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.3/log_output)
+
+#### Exercise 1.4
+
+- Release: [1.4](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.4) 
+- Tag: [1.4](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.4/todo_app)
