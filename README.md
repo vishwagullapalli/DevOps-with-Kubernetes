@@ -23,3 +23,8 @@
 
 - Release: [1.4](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.4) 
 - Tag: [1.4](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.4/todo_app)
+
+#### Exercise 1.5
+
+- Release: [1.5](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.5) 
+- Tag: [1.5](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.5/todo_app)
