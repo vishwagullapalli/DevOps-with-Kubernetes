@@ -4,27 +4,10 @@
 
 ### Chapter 2
 
-#### Exercise 1.1
-
-- Release: [1.1](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.1) 
-- Tag: [1.1](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.1/log_output)
-
-#### Exercise 1.2
-
-- Release: [1.2](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.2) 
-- Tag: [1.2](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.2/todo_app)
-
-#### Exercise 1.3
-
-- Release: [1.3](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.3) 
-- Tag: [1.3](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.3/log_output)
-
-#### Exercise 1.4
-
-- Release: [1.4](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.4) 
-- Tag: [1.4](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.4/todo_app)
-
-#### Exercise 1.5
-
-- Release: [1.5](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.5) 
-- Tag: [1.5](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.5/todo_app)
+| Exercise Number | Github Release | Git Tag |
+|:--------:|:-------:|:---:|
+|1.1|[1.1](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.1)|[1.1](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.1/log_output)|
+|1.2|[1.2](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.2)|[1.2](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.2/todo_app)|
+|1.3|[1.3](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.3)|[1.3](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.3/log_output)|
+|1.4|[1.4](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.4)|[1.4](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.4/todo_app)|
+|1.5|[1.5](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.5)|[1.5](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.5/todo_app)|
