@@ -2,6 +2,21 @@
 
 ## Exercises
 
+### Exercise 1.6
+
+- Create k3d cluster with correct ports configuration.
+    - ```k3d cluster create --port 6543:30010@agent:0 --port 8080:80@loadbalancer --agents 2```
+- Create ```service.yaml``` in manifests folder and run the following commands:
+    - ```kubectl apply -f manifests/deployment.yaml```
+    - ```kubectl apply -f manifests/service.yaml```
+- Verify the deployment and service.
+    - ```kubectl get deployments```
+    - ```kubectl get pods```
+    - ```kubectl get services```
+![Run](assets/1.6.png)
+- Check the app run on ```http://localhost:6543/```  
+![Check](assets/1.6.2.png)
+
 ### Exercise 1.5
 
 - Update the app to handle simple get request and push the updated image to Dockerhub with new tag.
@@ -12,7 +27,7 @@
     - ```kubectl get pods```
     - ```kubectl port-forward todo-app-647c4c89c7-5wrqn 3000:9876```
 ![Run](assets/1.5.png)
-- Check the run on ```http://localhost:3000/```
+- Check the run on ```http://localhost:3000/```  
 ![Check](assets/1.5.2.png)
 
 ### Exercise 1.4
