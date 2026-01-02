@@ -2,8 +2,8 @@
 
 ## Exercises
 
-Latest GitHub release: [1.8](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.8)
-Latest Git tag: [1.8](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.8/todo_app)
+Latest GitHub release: [1.9](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.9)
+Latest Git tag: [1.9](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.9/ping_pong)
 
 ### Chapter 2
 
@@ -17,3 +17,4 @@ Latest Git tag: [1.8](https://github.com/vishwagullapalli/DevOps-with-Kubernetes
 |1.6|[1.6](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.6)|[1.6](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.6/todo_app)|
 |1.7|[1.7](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.7)|[1.7](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.7/log_output)|
 |1.8|[1.8](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.8)|[1.8](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.8/todo_app)|
+|1.9|[1.9](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/releases/tag/1.9)|[1.9](https://github.com/vishwagullapalli/DevOps-with-Kubernetes/tree/1.9/ping_pong)|
