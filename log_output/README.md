@@ -2,6 +2,25 @@
 
 ## Exercises
 
+### Exercise 1.7
+
+- Create a cluster with a port open to load balancer.
+    - ```k3d cluster create --port 8081:80@loadbalancer --agents 2```
+- Update the applikcation Docker image.
+    - ```docker build -t pplx/log_output:1.7 .```
+    - ```docker push pplx/log_output:1.7```  
+![Run](assets/1.7.png)
+- Create ```service.yaml``` and ```ingress.yaml``` and apply them
+    - ```kubectl apply -f manifests```
+- Verify deployments
+    - ```kubectl get deploy,po,svc,ing```
+- Verify app logs 
+    - ```kubectl logs -f log-output-dep-5977b857df-q6xzx```  
+![Run](assets/1.7.2.png)
+- Open ```http://localhost:8081/``` in browser to see the output.  
+![Run](assets/1.7.3.png)
+
+
 ### Exercise 1.3
 
 - To create deployment and check it, run the following commands:
