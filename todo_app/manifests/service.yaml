@@ -3,12 +3,10 @@ kind: Service
 metadata:
     name: todo-app-srvc
 spec:
-    type: NodePort
+    type: ClusterIP
     selector:
         app: todo-app
     ports:
-        - name: http
-          nodePort: 30010
+        - port: 8765
           protocol: TCP
-          port: 8765
           targetPort: 9876

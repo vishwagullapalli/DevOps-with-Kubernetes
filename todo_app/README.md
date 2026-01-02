@@ -2,6 +2,18 @@
 
 ## Exercises
 
+### Exercise 1.8
+
+- Create a cluster with a port open to load balancer.
+    - ```k3d cluster create --port 8081:80@loadbalancer --agents 2```  
+- Update ```service.yaml``` and create ```ingress.yaml``` and apply them
+    - ```kubectl apply -f manifests```
+- Verify deployments
+    - ```kubectl get deploy,po,svc,ing```  
+![Run](assets/1.8.png)
+- Open ```http://localhost:8081/``` in browser to see the output.  
+![Run](assets/1.8.2.png)
+
 ### Exercise 1.6
 
 - Create k3d cluster with correct ports configuration.
